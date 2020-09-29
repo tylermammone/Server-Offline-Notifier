@@ -2,7 +2,7 @@
 
 [![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/tylermammone/Server-Offline-Notifier/commits/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/tylermammone/Server-Offline-Notifier/issues) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftylermammone%2FServer-Offline-Notifier&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Check a list of URLs to make sure they're online. If not, receive an email alert.
+Monitor a list of URLs to make sure they're online. If not, receive an email alert.
 
 ## Features
 Easy install  
